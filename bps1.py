@@ -260,9 +260,9 @@ cell75 = oif.OifCell(cell_type=cell_type,
                     particle_type=75, origin=[10.0, 950.0, 8.0])
 
 cell76 = oif.OifCell(cell_type=cell_type,
-                    particle_type=76, origin=[10.0, 950.0, 5.0])
+                    particle_type=76, origin=[10.0, 975.0, 5.0])
 cell77 = oif.OifCell(cell_type=cell_type,
-                    particle_type=77, origin=[10.0, 950.0, 8.0])
+                    particle_type=77, origin=[10.0, 975.0, 8.0])
 
 
 # cell-wall interactions
